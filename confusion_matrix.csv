@@ -1,0 +1,7 @@
+,Lying,Sitting,Stairs,Standing,Turning,Walking
+Lying,117,3,0,0,0,0
+Sitting,2,118,0,0,0,0
+Stairs,0,0,120,0,0,0
+Standing,0,0,0,120,0,0
+Turning,0,0,0,0,120,0
+Walking,0,0,0,0,0,120
